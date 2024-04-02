@@ -1,0 +1,10 @@
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\IgnoreMe.dll
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\obj\PSM\IgnoreMe.dll
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\Font.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\Sprites\EnemySheet.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\Mouse\Target.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\Sprites\NpcSheet.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\Tiles\Tilemap.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\bin\PSM\Content\White.xnb
+D:\PL\C#\MapEditor\MapEditorContent\MapEditorContent\obj\PSM\MapEditorContent.csprojResolveAssemblyReference.cache
